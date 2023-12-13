@@ -1,0 +1,401 @@
+alg	i	diff	solved	time	mem
+Depth-first search	0	easy	True	0.0289709568	822.349609375
+Depth-first with AC3	0	easy	True	0.0051302910	214.8515625
+Dancing Links	0	easy	True	0.0153770447	496.068359375
+Genetic Algorithm	0	easy	True	0.6352190971	196.4814453125
+Simulated Annealing	0	easy	True	0.6757292747	15.7666015625
+Depth-first search	1	easy	True	0.0229909420	689.3125
+Depth-first with AC3	1	easy	True	0.0104110241	211.9375
+Dancing Links	1	easy	True	0.0211300850	362.623046875
+Genetic Algorithm	1	easy	True	0.9707190990	192.2275390625
+Simulated Annealing	1	easy	True	0.1505300999	8.9921875
+Depth-first search	2	easy	True	0.0149419308	662.171875
+Depth-first with AC3	2	easy	True	0.0055270195	211.9375
+Dancing Links	2	easy	True	0.0138938427	362.623046875
+Genetic Algorithm	2	easy	True	0.7934858799	192.6259765625
+Simulated Annealing	2	easy	True	0.7321100235	9.69921875
+Depth-first search	3	easy	True	0.0179150105	671.671875
+Depth-first with AC3	3	easy	True	0.0052139759	211.9375
+Dancing Links	3	easy	True	0.0136811733	362.623046875
+Genetic Algorithm	3	easy	True	0.8099479675	190.8349609375
+Simulated Annealing	3	easy	True	0.9029707909	8.1806640625
+Depth-first search	4	easy	True	0.0159270763	655.765625
+Depth-first with AC3	4	easy	True	0.0071368217	211.9375
+Dancing Links	4	easy	True	0.0151209831	362.623046875
+Genetic Algorithm	4	easy	True	0.7091360092	190.5634765625
+Simulated Annealing	4	easy	True	0.4263942242	8.3681640625
+Depth-first search	5	easy	True	0.0138969421	636.390625
+Depth-first with AC3	5	easy	True	0.0048902035	211.2265625
+Dancing Links	5	easy	True	0.0139667988	362.623046875
+Genetic Algorithm	5	easy	True	0.7240619659	191.8623046875
+Simulated Annealing	5	easy	True	0.2948071957	8.337890625
+Depth-first search	6	easy	True	0.0190088749	672.111328125
+Depth-first with AC3	6	easy	True	0.0055489540	211.9375
+Dancing Links	6	easy	True	0.0140819550	362.623046875
+Genetic Algorithm	6	easy	True	0.9928960800	192.1806640625
+Simulated Annealing	6	easy	True	0.5123009682	8.0400390625
+Depth-first search	7	easy	True	0.0241351128	673.109375
+Depth-first with AC3	7	easy	True	0.0054149628	211.9375
+Dancing Links	7	easy	True	0.0141038895	362.623046875
+Genetic Algorithm	7	easy	True	0.9157178402	192.8828125
+Simulated Annealing	7	easy	True	0.5101420879	8.3212890625
+Depth-first search	8	easy	True	0.0137217045	667.234375
+Depth-first with AC3	8	easy	True	0.0053269863	211.9375
+Dancing Links	8	easy	True	0.0140781403	362.623046875
+Genetic Algorithm	8	easy	True	0.4867031574	190.4931640625
+Simulated Annealing	8	easy	True	0.2822160721	8.2744140625
+Depth-first search	9	easy	True	0.0167241096	674.046875
+Depth-first with AC3	9	easy	True	0.0099978447	211.9375
+Dancing Links	9	easy	True	0.0139331818	362.623046875
+Genetic Algorithm	9	easy	True	0.7500138283	192.2275390625
+Simulated Annealing	9	easy	True	0.3528308868	8.0869140625
+Depth-first search	10	easy	True	0.0154211521	669.8671875
+Depth-first with AC3	10	easy	True	0.0051679611	211.9375
+Dancing Links	10	easy	True	0.0141601562	362.623046875
+Genetic Algorithm	10	easy	True	1.3256802559	191.1025390625
+Simulated Annealing	10	easy	True	0.5927250385	8.2744140625
+Depth-first search	11	easy	True	0.0123751163	665.234375
+Depth-first with AC3	11	easy	True	0.0051498413	211.9375
+Dancing Links	11	easy	True	0.0138361454	362.623046875
+Genetic Algorithm	11	easy	True	0.5982699394	191.3271484375
+Simulated Annealing	11	easy	True	0.2973268032	8.2744140625
+Depth-first search	12	easy	True	0.0149407387	668.9130859375
+Depth-first with AC3	12	easy	True	0.0049498081	212.2412109375
+Dancing Links	12	easy	True	0.0139329433	362.623046875
+Genetic Algorithm	12	easy	True	0.7277612686	192.1806640625
+Simulated Annealing	12	easy	True	0.2986271381	8.1337890625
+Depth-first search	13	easy	True	0.0245738029	629.640625
+Depth-first with AC3	13	easy	True	0.0053660870	211.2265625
+Dancing Links	13	easy	True	0.0133481026	362.623046875
+Genetic Algorithm	13	easy	True	0.7571611404	192.3212890625
+Simulated Annealing	13	easy	True	0.1529178619	8.123046875
+Depth-first search	14	easy	True	0.0144710541	666.4296875
+Depth-first with AC3	14	easy	True	0.0055820942	211.9375
+Dancing Links	14	easy	True	0.0134508610	362.623046875
+Genetic Algorithm	14	easy	True	0.6666769981	191.6181640625
+Simulated Annealing	14	easy	True	0.3295130730	8.1806640625
+Depth-first search	15	easy	True	0.0128498077	663.546875
+Depth-first with AC3	15	easy	True	0.0048401356	211.9375
+Dancing Links	15	easy	True	0.0139796734	362.623046875
+Genetic Algorithm	15	easy	True	0.5273902416	191.8056640625
+Simulated Annealing	15	easy	True	0.2758212090	8.4150390625
+Depth-first search	16	easy	True	0.0137047768	620.5625
+Depth-first with AC3	16	easy	True	0.0049128532	210.515625
+Dancing Links	16	easy	True	0.0131390095	362.623046875
+Genetic Algorithm	16	easy	True	0.7021517754	192.0869140625
+Simulated Annealing	16	easy	True	0.4427177906	8.0732421875
+Depth-first search	17	easy	True	0.0135049820	669.3046875
+Depth-first with AC3	17	easy	True	0.0057852268	211.9375
+Dancing Links	17	easy	True	0.0151531696	362.623046875
+Genetic Algorithm	17	easy	True	0.5081331730	192.3916015625
+Simulated Annealing	17	easy	True	0.4365861416	8.5087890625
+Depth-first search	18	easy	True	0.0145459175	679.4375
+Depth-first with AC3	18	easy	True	0.0052862167	211.9375
+Dancing Links	18	easy	True	0.0136008263	362.623046875
+Genetic Algorithm	18	easy	True	0.6232032776	190.7744140625
+Simulated Annealing	18	easy	True	0.2533230782	8.2744140625
+Depth-first search	19	easy	True	0.0120308399	645.921875
+Depth-first with AC3	19	easy	True	0.0051069260	211.2265625
+Dancing Links	19	easy	True	0.0143430233	362.623046875
+Genetic Algorithm	19	easy	True	0.8413643837	190.4072265625
+Simulated Annealing	19	easy	True	0.1987571716	8.029296875
+Depth-first search	20	medium	True	0.0338580608	917.2265625
+Depth-first with AC3	20	medium	True	0.0057239532	219.40625
+Dancing Links	20	medium	True	0.0134408474	362.623046875
+Genetic Algorithm	20	medium	True	1.5392799377	192.9619140625
+Simulated Annealing	20	medium	True	0.8352019787	8.21875
+Depth-first search	21	medium	True	0.0249121189	1067.0
+Depth-first with AC3	21	medium	True	0.0071861744	222.9609375
+Dancing Links	21	medium	True	0.0148501396	362.623046875
+Genetic Algorithm	21	medium	True	12.3849489689	384.6337890625
+Simulated Annealing	21	medium	True	1.2201948166	8.6982421875
+Depth-first search	22	medium	True	0.0310688019	848.642578125
+Depth-first with AC3	22	medium	True	0.0066592693	216.9140625
+Dancing Links	22	medium	True	0.0140721798	362.623046875
+Genetic Algorithm	22	medium	True	5.6239778996	381.720703125
+Simulated Annealing	22	medium	True	0.4650609493	8.251953125
+Depth-first search	23	medium	True	0.0231432915	951.015625
+Depth-first with AC3	23	medium	True	0.0066359043	220.1171875
+Dancing Links	23	medium	True	0.0140159130	362.623046875
+Genetic Algorithm	23	medium	True	3.1779029369	192.6728515625
+Simulated Annealing	23	medium	True	1.1258313656	8.5302734375
+Depth-first search	24	medium	True	0.0199949741	808.1875
+Depth-first with AC3	24	medium	True	0.0056109428	216.203125
+Dancing Links	24	medium	True	0.0133228302	362.623046875
+Genetic Algorithm	24	medium	True	2.3619067669	192.5791015625
+Simulated Annealing	24	medium	True	1.0122308731	8.4560546875
+Depth-first search	25	medium	True	0.0819771290	979.265625
+Depth-first with AC3	25	medium	True	0.0085120201	220.828125
+Dancing Links	25	medium	True	0.0144467354	362.623046875
+Genetic Algorithm	25	medium	True	8.2688629627	382.119140625
+Simulated Annealing	25	medium	True	3.5835628510	8.326171875
+Depth-first search	26	medium	True	0.0217151642	796.75
+Depth-first with AC3	26	medium	True	0.0053601265	215.4921875
+Dancing Links	26	medium	True	0.0136260986	362.623046875
+Genetic Algorithm	26	medium	True	2.2694277763	379.314453125
+Simulated Annealing	26	medium	True	0.6522812843	8.5048828125
+Depth-first search	27	medium	True	0.0230259895	909.7734375
+Depth-first with AC3	27	medium	True	0.0090408325	219.40625
+Dancing Links	27	medium	True	0.0165481567	362.623046875
+Genetic Algorithm	27	medium	True	11.2400300503	382.189453125
+Simulated Annealing	27	medium	True	2.5723211765	8.40625
+Depth-first search	28	medium	True	0.2558410168	874.25
+Depth-first with AC3	28	medium	True	0.0058319569	218.6953125
+Dancing Links	28	medium	True	0.0135488510	362.623046875
+Genetic Algorithm	28	medium	True	4.1090972424	381.111328125
+Simulated Annealing	28	medium	True	1.1353178024	8.2353515625
+Depth-first search	29	medium	True	0.1031229496	1016.390625
+Depth-first with AC3	29	medium	True	0.0065472126	222.25
+Dancing Links	29	medium	True	0.0139510632	362.623046875
+Genetic Algorithm	29	medium	True	9.6839880943	381.962890625
+Simulated Annealing	29	medium	True	2.4427487850	8.57421875
+Depth-first search	30	medium	True	0.0172598362	814.96875
+Depth-first with AC3	30	medium	True	0.0060288906	216.203125
+Dancing Links	30	medium	True	0.0134608746	362.623046875
+Genetic Algorithm	30	medium	True	1.2618417740	192.6494140625
+Simulated Annealing	30	medium	True	0.9467341900	8.4091796875
+Depth-first search	31	medium	True	0.0242497921	959.4296875
+Depth-first with AC3	31	medium	True	0.0064899921	220.828125
+Dancing Links	31	medium	True	0.0139231682	362.623046875
+Genetic Algorithm	31	medium	True	1.9672672749	192.6494140625
+Simulated Annealing	31	medium	True	1.6397418976	8.419921875
+Depth-first search	32	medium	True	0.0405318737	924.2109375
+Depth-first with AC3	32	medium	True	0.0055849552	219.40625
+Dancing Links	32	medium	True	0.0143041611	362.623046875
+Genetic Algorithm	32	medium	True	3.3950829506	379.494140625
+Simulated Annealing	32	medium	True	1.0332970619	8.3125
+Depth-first search	33	medium	True	0.0349159241	965.4296875
+Depth-first with AC3	33	medium	True	0.0073997974	220.828125
+Dancing Links	33	medium	True	0.0134377480	362.623046875
+Genetic Algorithm	33	medium	False	31.9582142830	382.212890625
+Simulated Annealing	33	medium	True	20.4555757046	8.513671875
+Depth-first search	34	medium	True	0.0304589272	924.8984375
+Depth-first with AC3	34	medium	True	0.0078029633	219.40625
+Dancing Links	34	medium	True	0.0143620968	362.623046875
+Genetic Algorithm	34	medium	True	10.7503390312	382.189453125
+Simulated Annealing	34	medium	True	0.2668430805	8.265625
+Depth-first search	35	medium	True	0.0544068813	1006.21875
+Depth-first with AC3	35	medium	True	0.0067467690	221.5390625
+Dancing Links	35	medium	True	0.0137641430	362.623046875
+Genetic Algorithm	35	medium	True	10.3480558395	382.212890625
+Simulated Annealing	35	medium	True	5.1390106678	8.5908203125
+Depth-first search	36	medium	True	0.0333878994	908.3671875
+Depth-first with AC3	36	medium	True	0.0063579082	219.40625
+Dancing Links	36	medium	True	0.0136930943	362.623046875
+Genetic Algorithm	36	medium	True	2.8059170246	379.775390625
+Simulated Annealing	36	medium	True	0.9876806736	8.3125
+Depth-first search	37	medium	True	0.0479040146	927.0625
+Depth-first with AC3	37	medium	True	0.0065331459	220.1171875
+Dancing Links	37	medium	True	0.0135490894	362.623046875
+Genetic Algorithm	37	medium	True	1.7014298439	192.6728515625
+Simulated Annealing	37	medium	True	2.3902902603	8.5302734375
+Depth-first search	38	medium	True	0.0171599388	820.75
+Depth-first with AC3	38	medium	True	0.0064287186	216.203125
+Dancing Links	38	medium	True	0.0136342049	362.623046875
+Genetic Algorithm	38	medium	True	1.4099109173	192.7900390625
+Simulated Annealing	38	medium	True	2.3521630764	8.2216796875
+Depth-first search	39	medium	True	0.0204410553	900.8359375
+Depth-first with AC3	39	medium	True	0.0066082478	219.40625
+Dancing Links	39	medium	True	0.0138938427	362.623046875
+Genetic Algorithm	39	medium	True	1.2769360542	192.6962890625
+Simulated Annealing	39	medium	True	0.4936089516	8.40625
+Depth-first search	40	hard	True	0.0586071014	947.4140625
+Depth-first with AC3	40	hard	True	0.0063948631	221.375
+Dancing Links	40	hard	True	0.0146460533	493.263671875
+Genetic Algorithm	40	hard	True	3.6434371471	380.580078125
+Simulated Annealing	40	hard	True	1.1037008762	8.484375
+Depth-first search	41	hard	True	0.0737700462	1014.2578125
+Depth-first with AC3	41	hard	True	0.0091009140	222.25
+Dancing Links	41	hard	True	0.0140872002	362.623046875
+Genetic Algorithm	41	hard	False	32.5632231236	382.212890625
+Simulated Annealing	41	hard	True	11.0293259621	8.66796875
+Depth-first search	42	hard	True	0.0597949028	966.7421875
+Depth-first with AC3	42	hard	True	0.0063710213	220.828125
+Dancing Links	42	hard	True	0.0136089325	362.623046875
+Genetic Algorithm	42	hard	True	3.6006948948	379.322265625
+Simulated Annealing	42	hard	True	0.5130169392	8.466796875
+Depth-first search	43	hard	True	0.0472760201	1069.3046875
+Depth-first with AC3	43	hard	True	0.0090272427	222.9609375
+Dancing Links	43	hard	True	0.0172889233	362.623046875
+Genetic Algorithm	43	hard	True	19.9684500694	382.212890625
+Simulated Annealing	43	hard	True	1.3426580429	8.6171875
+Depth-first search	44	hard	True	0.0359523296	970.9296875
+Depth-first with AC3	44	hard	True	0.0066061020	220.828125
+Dancing Links	44	hard	True	0.0137691498	362.623046875
+Genetic Algorithm	44	hard	True	5.6458878517	381.705078125
+Simulated Annealing	44	hard	True	1.0959210396	8.466796875
+Depth-first search	45	hard	True	0.0552868843	921.0625
+Depth-first with AC3	45	hard	True	0.0061721802	220.1171875
+Dancing Links	45	hard	True	0.0136628151	362.623046875
+Genetic Algorithm	45	hard	True	6.3491230011	381.533203125
+Simulated Annealing	45	hard	True	0.4269640446	8.2958984375
+Depth-first search	46	hard	True	0.0285172462	1024.7109375
+Depth-first with AC3	46	hard	True	0.0067956448	222.25
+Dancing Links	46	hard	True	0.0140459538	362.623046875
+Genetic Algorithm	46	hard	True	22.7588551044	382.212890625
+Simulated Annealing	46	hard	True	1.0060119629	8.38671875
+Depth-first search	47	hard	True	0.0468668938	937.4375
+Depth-first with AC3	47	hard	True	0.0064220428	220.1171875
+Dancing Links	47	hard	True	0.0136709213	362.623046875
+Genetic Algorithm	47	hard	True	5.4869751930	381.009765625
+Simulated Annealing	47	hard	True	5.4576549530	8.4365234375
+Depth-first search	48	hard	True	0.0848419666	1026.0546875
+Depth-first with AC3	48	hard	True	0.0067539215	222.25
+Dancing Links	48	hard	True	0.0137059689	362.623046875
+Genetic Algorithm	48	hard	True	13.7958331108	382.212890625
+Simulated Annealing	48	hard	True	4.4085559845	8.48046875
+Depth-first search	49	hard	True	0.1875019073	1049.75
+Depth-first with AC3	49	hard	True	0.0103490353	222.9609375
+Dancing Links	49	hard	True	0.0161290169	362.623046875
+Genetic Algorithm	49	hard	True	13.5726981163	382.212890625
+Simulated Annealing	49	hard	True	1.0872342587	8.4638671875
+Depth-first search	50	hard	True	0.0592010021	992.3125
+Depth-first with AC3	50	hard	True	0.0084242821	221.5390625
+Dancing Links	50	hard	True	0.0166478157	362.623046875
+Genetic Algorithm	50	hard	True	6.4958531857	381.986328125
+Simulated Annealing	50	hard	True	1.7975039482	8.0751953125
+Depth-first search	51	hard	True	0.9301300049	1110.96875
+Depth-first with AC3	51	hard	True	0.0095767975	224.3828125
+Dancing Links	51	hard	True	0.0142140388	362.623046875
+Genetic Algorithm	51	hard	False	34.6709239483	382.212890625
+Simulated Annealing	51	hard	True	33.7404749393	8.2431640625
+Depth-first search	52	hard	True	0.0338907242	1026.7734375
+Depth-first with AC3	52	hard	True	0.0078308582	222.25
+Dancing Links	52	hard	True	0.0140130520	362.623046875
+Genetic Algorithm	52	hard	True	19.5165450573	382.212890625
+Simulated Annealing	52	hard	True	1.1309099197	8.19921875
+Depth-first search	53	hard	True	0.0260539055	896.8671875
+Depth-first with AC3	53	hard	True	0.0056047440	219.40625
+Dancing Links	53	hard	True	0.0136446953	362.623046875
+Genetic Algorithm	53	hard	True	5.8803000450	381.119140625
+Simulated Annealing	53	hard	True	0.9829497337	8.640625
+Depth-first search	54	hard	True	0.2056109905	1179.453125
+Depth-first with AC3	54	hard	True	0.0090801716	287.4921875
+Dancing Links	54	hard	True	0.0140161514	362.623046875
+Genetic Algorithm	54	hard	False	35.8152861595	382.212890625
+Simulated Annealing	54	hard	True	4.9180998802	8.240234375
+Depth-first search	55	hard	True	0.2747802734	1001.421875
+Depth-first with AC3	55	hard	True	0.0072062016	221.5390625
+Dancing Links	55	hard	True	0.0137090683	362.623046875
+Genetic Algorithm	55	hard	True	12.5413699150	382.212890625
+Simulated Annealing	55	hard	True	2.0268971920	8.4970703125
+Depth-first search	56	hard	True	0.0715038776	1108.46875
+Depth-first with AC3	56	hard	True	0.0083448887	224.4375
+Dancing Links	56	hard	True	0.0141031742	362.623046875
+Genetic Algorithm	56	hard	True	26.4294338226	382.212890625
+Simulated Annealing	56	hard	True	1.8823421001	8.2431640625
+Depth-first search	57	hard	True	0.2459180355	1087.90625
+Depth-first with AC3	57	hard	True	0.0076141357	223.671875
+Dancing Links	57	hard	True	0.0141010284	362.623046875
+Genetic Algorithm	57	hard	True	7.6116111279	382.080078125
+Simulated Annealing	57	hard	True	0.4191849232	8.306640625
+Depth-first search	58	hard	True	1.1797370911	1027.9296875
+Depth-first with AC3	58	hard	True	0.0075976849	222.25
+Dancing Links	58	hard	True	0.0139951706	362.623046875
+Genetic Algorithm	58	hard	True	33.4604361057	382.255859375
+Simulated Annealing	58	hard	True	12.4404401779	8.38671875
+Depth-first search	59	hard	True	0.0585939884	813.75
+Depth-first with AC3	59	hard	True	0.0086872578	216.203125
+Dancing Links	59	hard	True	0.0156528950	362.623046875
+Genetic Algorithm	59	hard	True	3.4832439423	192.8212890625
+Simulated Annealing	59	hard	True	1.1042320728	8.2216796875
+Depth-first search	60	extreme	True	0.3026738167	1217.9765625
+Depth-first with AC3	60	extreme	True	0.0086929798	240.3828125
+Dancing Links	60	extreme	True	0.0154752731	493.263671875
+Genetic Algorithm	60	extreme	False	40.5482618809	382.212890625
+Simulated Annealing	60	extreme	True	15.4675300121	8.833984375
+Depth-first search	61	extreme	True	0.3899629116	1138.8046875
+Depth-first with AC3	61	extreme	True	0.0085811615	225.8046875
+Dancing Links	61	extreme	True	0.0144157410	362.623046875
+Genetic Algorithm	61	extreme	False	40.3218321800	382.212890625
+Simulated Annealing	61	extreme	True	10.1953668594	8.4443359375
+Depth-first search	62	extreme	True	0.1022510529	1135.2109375
+Depth-first with AC3	62	extreme	True	0.0086061954	225.09375
+Dancing Links	62	extreme	True	0.0139520168	362.623046875
+Genetic Algorithm	62	extreme	False	36.0949001312	382.212890625
+Simulated Annealing	62	extreme	True	11.5966210365	8.2734375
+Depth-first search	63	extreme	True	2.5414330959	1220.1953125
+Depth-first with AC3	63	extreme	True	0.0103199482	227.3203125
+Dancing Links	63	extreme	True	0.0140302181	362.623046875
+Genetic Algorithm	63	extreme	False	35.8627762794	382.212890625
+Simulated Annealing	63	extreme	True	36.3524720669	8.6923828125
+Depth-first search	64	extreme	True	0.1995589733	1300.6640625
+Depth-first with AC3	64	extreme	True	0.0121431351	231.1953125
+Dancing Links	64	extreme	True	0.0143659115	362.623046875
+Genetic Algorithm	64	extreme	False	39.5399789810	382.212890625
+Simulated Annealing	64	extreme	False	298.6969621181	8.7060546875
+Depth-first search	65	extreme	True	1.0127680302	1130.515625
+Depth-first with AC3	65	extreme	True	0.0076901913	225.09375
+Dancing Links	65	extreme	True	0.0141460896	362.623046875
+Genetic Algorithm	65	extreme	True	25.1360960007	382.212890625
+Simulated Annealing	65	extreme	True	11.0307650566	8.4609375
+Depth-first search	66	extreme	True	13.5638630390	1268.265625
+Depth-first with AC3	66	extreme	True	0.0124421120	344.5078125
+Dancing Links	66	extreme	True	0.0161621571	493.263671875
+Genetic Algorithm	66	extreme	False	37.3009610176	382.212890625
+Simulated Annealing	66	extreme	True	27.8545238972	8.75390625
+Depth-first search	67	extreme	True	3.2704629898	1193.3203125
+Depth-first with AC3	67	extreme	True	0.0244662762	393.857421875
+Dancing Links	67	extreme	True	0.0141432285	362.623046875
+Genetic Algorithm	67	extreme	False	38.0329508781	382.212890625
+Simulated Annealing	67	extreme	True	19.0544807911	8.615234375
+Depth-first search	68	extreme	True	0.2555599213	1233.34375
+Depth-first with AC3	68	extreme	True	0.0095000267	240.1953125
+Dancing Links	68	extreme	True	0.0142011642	362.623046875
+Genetic Algorithm	68	extreme	False	35.3665390015	382.212890625
+Simulated Annealing	68	extreme	False	297.2056419849	8.39453125
+Depth-first search	69	extreme	True	8.0999679565	1232.703125
+Depth-first with AC3	69	extreme	True	0.0091779232	227.9375
+Dancing Links	69	extreme	True	0.0156290531	493.263671875
+Genetic Algorithm	69	extreme	False	36.4834361076	382.212890625
+Simulated Annealing	69	extreme	False	314.2237439156	8.974609375
+Depth-first search	70	extreme	True	14.1735160351	1269.1015625
+Depth-first with AC3	70	extreme	True	0.0160210133	325.140625
+Dancing Links	70	extreme	True	0.0162658691	493.263671875
+Genetic Algorithm	70	extreme	False	37.9075961113	382.212890625
+Simulated Annealing	70	extreme	False	297.2102270126	8.6298828125
+Depth-first search	71	extreme	True	3.0103302002	1219.4296875
+Depth-first with AC3	71	extreme	True	0.0107309818	227.9921875
+Dancing Links	71	extreme	True	0.0153501034	493.263671875
+Genetic Algorithm	71	extreme	False	36.5647308826	382.212890625
+Simulated Annealing	71	extreme	False	298.6338701248	8.880859375
+Depth-first search	72	extreme	True	1.5088608265	1073.1953125
+Depth-first with AC3	72	extreme	True	0.0085091591	224.3828125
+Dancing Links	72	extreme	True	0.0139729977	362.623046875
+Genetic Algorithm	72	extreme	False	42.0555539131	382.212890625
+Simulated Annealing	72	extreme	True	2.2458267212	8.4306640625
+Depth-first search	73	extreme	True	0.1245808601	1176.4765625
+Depth-first with AC3	73	extreme	True	0.0092279911	227.15625
+Dancing Links	73	extreme	True	0.0176582336	362.623046875
+Genetic Algorithm	73	extreme	False	35.6940190792	382.212890625
+Simulated Annealing	73	extreme	True	13.0351221561	8.287109375
+Depth-first search	74	extreme	True	0.2474932671	1208.203125
+Depth-first with AC3	74	extreme	True	0.0084748268	226.515625
+Dancing Links	74	extreme	True	0.0141589642	362.623046875
+Genetic Algorithm	74	extreme	False	37.3799071312	382.212890625
+Simulated Annealing	74	extreme	True	7.6475419998	8.521484375
+Depth-first search	75	extreme	True	0.0254681110	1041.4375
+Depth-first with AC3	75	extreme	True	0.0082757473	222.9609375
+Dancing Links	75	extreme	True	0.0138800144	362.623046875
+Genetic Algorithm	75	extreme	False	34.3086678982	382.212890625
+Simulated Annealing	75	extreme	True	1.6148929596	8.6044921875
+Depth-first search	76	extreme	True	0.4539468288	1142.3671875
+Depth-first with AC3	76	extreme	True	0.0097069740	258.984375
+Dancing Links	76	extreme	True	0.0141890049	362.623046875
+Genetic Algorithm	76	extreme	False	39.7974309921	382.212890625
+Simulated Annealing	76	extreme	True	19.0124781132	8.6953125
+Depth-first search	77	extreme	True	0.1439170837	1117.8203125
+Depth-first with AC3	77	extreme	True	0.0087959766	225.09375
+Dancing Links	77	extreme	True	0.0178947449	362.623046875
+Genetic Algorithm	77	extreme	False	34.2724230289	382.212890625
+Simulated Annealing	77	extreme	True	1.7940647602	8.2265625
+Depth-first search	78	extreme	True	0.9282619953	1264.5
+Depth-first with AC3	78	extreme	True	0.0219430923	426.59375
+Dancing Links	78	extreme	True	0.0144557953	362.623046875
+Genetic Algorithm	78	extreme	False	39.0167768002	382.212890625
+Simulated Annealing	78	extreme	False	434.8540410995	8.39453125
+Depth-first search	79	extreme	True	0.2702190876	1213.7890625
+Depth-first with AC3	79	extreme	True	0.0074579716	270.03125
+Dancing Links	79	extreme	True	0.0165653229	362.623046875
+Genetic Algorithm	79	extreme	False	37.1483042240	382.212890625
+Simulated Annealing	79	extreme	True	13.4292991161	8.099609375
